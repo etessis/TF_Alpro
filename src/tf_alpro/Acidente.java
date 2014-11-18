@@ -9,7 +9,7 @@ public class Acidente {
     private String tipo;
     private Date dataHora;
     private String diaSemana;
-    //private int feridos;
+    private int feridos;
     private int mortes;
     private int mortesPos;
     private int fatais;
